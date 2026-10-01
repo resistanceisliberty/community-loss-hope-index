@@ -4,12 +4,7 @@
 
 Mapping community grief across Philadelphia: because loss isn't random, it's place-based and persistent.
 
-I combined two earlier prototypes into a single site, with the original author's permission:
-
-- [Index concept](https://merctwain.github.io/IndexConcept/): the interactive ZIP-code bubble map, key findings, and city-wide trends (built by TD Mindpower)
-- [Index prototype](https://merctwain.github.io/Index/prototype1cli.html): neighborhood rankings, the bereavement gap, the compounding effect, and 2023 at a glance
-
-The page has one header, one palette and type system, and a section nav. Clicking a ZIP in any of the lower charts selects it on the map.
+The site has an interactive ZIP-code map with key findings, city-wide trends, neighborhood rankings, the bereavement gap, the compounding effect, and 2023 at a glance. Clicking a ZIP in any of the lower charts selects it on the map.
 
 A project of the [Wealth + Work Futures Lab](https://wealthworkfutures.org) at Drexel University's Lindy Institute for Urban Innovation.
 
